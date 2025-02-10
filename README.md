@@ -1,1 +1,1 @@
-# grav-wave-challenge
+# grav-wave-anomaly-detection-challenge
